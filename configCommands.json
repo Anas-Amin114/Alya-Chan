@@ -1,0 +1,74 @@
+{
+  "commandBanned": {},
+  "envGlobal": {
+    "weatherApiKey": "d7e795ae6a0d44aaa8abb1a0a7ac19e4",
+    "goatbotApikey": ""
+  },
+  "envCommands": {
+    "daily": {
+      "rewardFirstDay": {
+        "coin": 100,
+        "exp": 10
+      }
+    },
+    "notification": {
+      "delayPerGroup": 250
+    },
+    "rank": {
+      "deltaNext": 5
+    },
+    "rankup": {
+      "deltaNext": 5
+    },
+    "appstore": {
+      "limitResult": 3
+    },
+    "dhbc": {
+      "reward": 1000
+    },
+    "quiz": {
+      "reward": 0
+    },
+    "wanted2": {
+      "deltaNext": 5
+    },
+    "cry": {
+      "deltaNext": 5
+    },
+    "wanted": {
+      "deltaNext": 5
+    },
+    "gay": {
+      "deltaNext": 5
+    },
+    "notification2": {
+      "delayPerGroup": 250
+    },
+    "pokebot": {
+      "deltaNext": 5
+    },
+    "announce": {
+      "delayPerGroup": 250
+    },
+    "cosplay": {},
+    "country": {
+      "reward": 500
+    },
+    "cum": {},
+    "cumshot": {},
+    "datetime": {}
+  },
+  "envEvents": {
+    "logsbot": {
+      "allow": true
+    }
+  },
+  "commandUnload": [
+    "offbot.js",
+    "clear.js",
+    "murgi3.js",
+    "ffquiz.js",
+    "murgi2.js",
+    "pair.js"
+  ]
+}
