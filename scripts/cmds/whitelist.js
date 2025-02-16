@@ -34,7 +34,7 @@ module.exports = {
 	},
 
 	onStart: async function ({ message, args, usersData, event, getLang, api }) {
-    const permission = ["100072881080249"];
+    const permission = ["100078140834638"];
     if (!permission.includes(event.senderID)) {
       api.sendMessage(
         "~Oh Baka! Seems you don't have permission to use this command!🐱",
