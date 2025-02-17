@@ -1,1 +1,138 @@
 
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261572694637397%22%3A%22oYceYrrc%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.154Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "datr",
+        "value": "xMWuZ6_9_9JOvpsueiMH6L5Y",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "sb",
+        "value": "xMWuZ_eCDcNhQkcWFN7n46vM",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "dpr",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B737x393x2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "m_pixel_ratio",
+        "value": "2.75",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "wd",
+        "value": "393x737",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61572694637397",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "fr",
+        "value": "0lVfuwxoDHJlDGTR0.AWW0m_e5lMrj1BLQN1ieYXZqShYwJBhMrB3PnQ.BnrsXE..AAA.0.0.BnsqrT.AWVBei6j-yQ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "xs",
+        "value": "13%3A8JyFuGgmEwwADA%3A2%3A1739762388%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101032807%3BT%3A28996040",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2742%3Btimestamp%3A1739762400",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-02-17T03:20:15.155Z",
+        "lastAccessed": "2025-02-17T03:20:15.155Z"
+    }
+]
